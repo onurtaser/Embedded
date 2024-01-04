@@ -1,0 +1,7 @@
+../Src/main.c:10:9:add_numbers	1
+../Src/main.c:19:9:sub_numbers	1
+../Src/main.c:28:9:mul_numbers	1
+../Src/main.c:37:9:div_numbers	1
+../Src/main.c:46:5:main	1
+../Src/main.c:65:30:SVC_Handler	1
+../Src/main.c:72:6:SVC_Handler_c	5
